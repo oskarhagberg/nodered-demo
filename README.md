@@ -4,6 +4,20 @@ Visual demonstrator for IoT of electric tow trucks at airports.
 
 Built on [NodeRED](https://nodered.org/)
 
+# Running the demo
+
+Navigate to http://localhost:1880 to access the NodeRED environment. Do tweaks and changes here.
+
+There are currently 3 versions to demo:
+
+1. http://localhost:1880/maps
+2. http://localhost:1880/worldmap
+3. http://localhost:1880/ui
+
+1 is a very simple full screen map.
+2 is a bit more advanced full screen map with a geofence.
+3 is an embedded map with a table below, showing the objects meta data.
+
 # Running locally
 
 Make sure Docker is installed and running, then build the image.
