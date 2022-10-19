@@ -1,0 +1,4 @@
+node_modules
+locationbar
+.npm
+.config.*
